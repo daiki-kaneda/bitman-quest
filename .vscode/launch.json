@@ -1,0 +1,45 @@
+{
+    // IntelliSense を使用して利用可能な属性を学べます。
+    // 既存の属性の説明をホバーして表示します。
+    // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "bitman_quest",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "bitman_quest (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "bitman_quest (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "local_savedata_repository",
+            "cwd": "packages/local_savedata_repository",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "local_savedata_repository (profile mode)",
+            "cwd": "packages/local_savedata_repository",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "local_savedata_repository (release mode)",
+            "cwd": "packages/local_savedata_repository",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
